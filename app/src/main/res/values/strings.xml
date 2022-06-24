@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PCL Android Task</string>
+    <string name="CYP">Complete Your Profile</string>
+    <string name="H">Height</string>
+    <string name="cm">cm</string>
+    <string name="ft">ft</string>
+    <string name="nxt">Next</string>
+    <string name="percent">30%</string>
+    <string name="ProfComp">Profile Completion</string>
+    <string name="SubScript">Adding these details will help us better understand your medical condition.</string>
+</resources>
